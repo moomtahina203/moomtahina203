@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Moomtahina 👋
 
-<!--
-**moomtahina203/moomtahina203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 HSC Student at Dhaka City College
 
-Here are some ideas to get you started:
+## About Me
+- Business Studies Student
+- Learning Git & GitHub
+- Interested in Programming and AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- HTML & CSS
+- Python
+- GitHub
+
+## Goals
+- Build useful projects
+- Learn software development
+- Participate in open-source projects
+
+## Contact
+GitHub: @YOUR_USERNAME
